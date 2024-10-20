@@ -5,9 +5,9 @@ This project follows my final year project in UITM,
 
 Title : Sentiment Analysis on cryptocurrencies news using LLM
 
-the objectives is the compare the performance between VADER, BERT, FinBERT and LLaMa 3.1 
+the objectives is the comparative study of the performance between VADER, BERT, FinBERT and LLaMa 3.1 
 
-the dataset provided by azmina binti zamani  thankfuly, helping my research.
+the dataset provided by azmina binti zamani  thankfuly, helped my research.
 
 this is not the full finished project, just updating on what is happening, because i think this is one of the important findings i have made.
 
