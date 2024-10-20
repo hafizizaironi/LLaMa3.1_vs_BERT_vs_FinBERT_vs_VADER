@@ -26,3 +26,4 @@ follows are the experiment i have made.
 and thank god , i found LM Studio for making this happened.
 
 LM Studio is an LLM support GUI application that make LLM run locally happening like ollama, but LM Studio make it easier to handle llama 3.1 and by the time im posting this, llama 3.2 is already came out. 
+![image](https://github.com/user-attachments/assets/938fe91b-be27-4e26-97b1-1abbea3a051d)
